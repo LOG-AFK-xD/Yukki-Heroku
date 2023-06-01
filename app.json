@@ -40,7 +40,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "⁪⁬Music Bot",
+        "value": "⁪⁬Mᴜsɪᴄ Bᴏᴛ",
         "required": true
       },
       "OWNER_ID": {
@@ -70,7 +70,7 @@
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "",
+        "value": "https://telegra.ph/file/6a05bde9255a0f694368a.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -85,7 +85,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001834327765",
         "required": true
       },
       "UPSTREAM_REPO": {
